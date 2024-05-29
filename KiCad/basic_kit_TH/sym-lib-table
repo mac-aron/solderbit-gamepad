@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SN74HC165N")(type "KiCad")(uri "/Users/aroneggens/Desktop/Microbit work/PCB soldering accessory/KiCad/components/SN74HC165N/SN74HC165N.kicad_sym")(options "")(descr ""))
+  (lib (name "TS02-66-95-BK-260-LCR-D")(type "KiCad")(uri "/Users/aroneggens/Desktop/Microbit work/PCB soldering accessory/KiCad/components/TS02-66-95-BK-260-LCR-D/TS02-66-95-BK-260-LCR-D.kicad_sym")(options "")(descr ""))
+  (lib (name "1655")(type "KiCad")(uri "/Users/aroneggens/Desktop/Microbit work/PCB soldering accessory/KiCad/components/1655/1655.kicad_sym")(options "")(descr ""))
+  (lib (name "Microbit_accessory")(type "KiCad")(uri "/Users/aroneggens/Desktop/Microbit work/PCB soldering accessory/KiCad/Microbit_accessory.kicad_sym")(options "")(descr ""))
+)
